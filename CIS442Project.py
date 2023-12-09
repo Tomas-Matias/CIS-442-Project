@@ -1,3 +1,8 @@
+# Name: Tomas Matias
+# Description: Checks for masqueraded files depending on file signature and extension
+# Date: 12/9/23
+#
+
 import os
 
 def fileSignature(filePath, hex):
